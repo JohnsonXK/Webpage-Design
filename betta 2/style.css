@@ -36,7 +36,7 @@ background-position: center;
 .navbar .logo{
     width: 180px;
     cursor: pointer;
-    margin-top: 4%;
+    margin-top: 2%;
     margin-left: -2%;
     mix-blend-mode: lighten;
 }
