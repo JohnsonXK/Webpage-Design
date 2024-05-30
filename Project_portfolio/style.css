@@ -272,7 +272,6 @@ top: 50%;
 bottom: 0%;
 left: 50%;
 right: 100px;
-margin-top: -3%;
 animation: moveimage 3s forwards;
 }
 
@@ -281,7 +280,7 @@ animation: moveimage 3s forwards;
         left: 0px;
     }
     to {
-        left: 82%;
+        left: 79%;
     }
 }
 
