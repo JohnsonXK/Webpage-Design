@@ -240,9 +240,6 @@ ul li a:hover{
 }
 
 .button-label {
-    font-weight: bold;
-    text-align: center;
-    margin-top: 20%;
     animation: colorChange 3s infinite;
 }
 
