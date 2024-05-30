@@ -112,8 +112,8 @@ ul li a:hover{
 }
 
 .info h1{
-  	margin-left: 5%;
-   font-size: 4em;
+  margin-left: 5%;
+   font-size: 1em;
    color: cyan;
 }
 
@@ -136,7 +136,7 @@ ul li a:hover{
 }
 
 .info h3{
-	color: cyan;
+    color: cyan;
     font-size: 18px;
     letter-spacing: 1px;
     line-height: 24px;
